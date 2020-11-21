@@ -111,7 +111,7 @@ exports[`TagTemplate renders correctly 1`] = `
           >
             <a
               className="contacts__list-item-link"
-              href="https://t.me/#"
+              href="telegram:@#"
               rel="noopener noreferrer"
               target="_blank"
             >
