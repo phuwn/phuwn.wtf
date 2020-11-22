@@ -11,10 +11,10 @@
       "path": "/categories"
     },
     {
-      "path": "/posts/the-origins-of-social-stationery-lettering"
+      "path": "/posts/perfecting-the-art-of-perfection"
     },
     {
-      "path": "/posts/perfecting-the-art-of-perfection"
+      "path": "/posts/the-origins-of-social-stationery-lettering"
     },
     {
       "path": "/posts/a-brief-history-of-typography"
@@ -74,9 +74,6 @@
       "path": "/page/1"
     },
     {
-      "path": "/offline-plugin-app-shell-fallback"
-    },
-    {
       "path": "/404.html"
     },
     {
@@ -86,7 +83,13 @@
       "path": "/bookshelf"
     },
     {
+      "path": "/chill"
+    },
+    {
       "path": "/contacts"
+    },
+    {
+      "path": "/projects"
     }
   ]
 }
