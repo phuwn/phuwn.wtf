@@ -1,3 +1,5 @@
+<img alt="phuwn avatar" title="phuwn avatar" src="https://github.com/phuwn/phuwn.wtf/blob/master/static/media/do.png" width="140"> </br>
+
 # [phuwn.wtf](https://phuwn.wtf)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4817c355-fe35-4023-be0b-c4e69a6c5557/deploy-status)](https://app.netlify.com/sites/phuwnblog/deploys)
@@ -13,7 +15,6 @@ Inspired by [tiggreen/tik.dev](https://github.com/tiggreen/tik.dev).
 ## Table of contents
 
 - [Features](http://github.com/phuwn/phuwn.wtf#features)
-- [Web Performance Tests](http://github.com/phuwn/phuwn.wtf#web-performance-tests)
 - [Quick Start](http://github.com/phuwn/phuwn.wtf#quick-start)
 - [Deploy with Netlify](http://github.com/phuwn/phuwn.wtf#deploy-with-netlify)
 - [Folder Structure](http://github.com/phuwn/phuwn.wtf#folder-structure)
