@@ -9,7 +9,7 @@ module.exports = {
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 3,
-  googleAnalyticsId: "UA-73379983-2",
+  googleAnalyticsId: "G-R4K82JKFBN",
   useKatex: false,
   menu: [
     {
@@ -39,7 +39,7 @@ module.exports = {
   ],
   author: {
     name: "Phuong Tran",
-    photo: "/photo.jpg",
+    photo: "/media/avatar.jpg",
     bio: "A personal blog of a tech lover. Welcome to my huge and crazy world.",
     contacts: {
       email: "phuwn29@gmail.com",

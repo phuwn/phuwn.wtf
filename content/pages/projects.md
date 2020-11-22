@@ -10,6 +10,8 @@ socialImage: "/media/projects.jpg"
 
 ### Some of my highlighted pet project
 
+- [phuwn.wtf](https://github.com/phuwn/phuwn.wtf) - A personal blog (You're here).
+
 - [New Zoom](https://github.com/newzoom) - A simple video conference web app
 
 - [chitchat](https://github.com/phuwn/chitchat) - A network protocols playground via a real-time chatting app
