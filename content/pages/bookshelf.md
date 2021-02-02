@@ -4,11 +4,11 @@ template: "page"
 socialImage: "/media/bookshelf.jpg"
 ---
 
-Well, I do enjoy reading books. Some of them aren't even in coding or tech category. I read all kind of books including psychology, business, self-help, ... Hmm does manga count as books? Cause I read them like my entire life hehe. Anyway I thought I’d share my bookshelf here, check it out. Some of them I started but never finished 😅. Those highlighted are my favorite, give them a try.
+Well, I do enjoy reading books. Some of them aren't even in coding or tech category. I read all kind of books including psychology, business, self-help, ... Hmm does manga count as books? Cause I read them like my entire life hehe. Anyway I thought I’d share my bookshelf here, check it out, you may find some hidden treasure that you have never seen before. Some of them I started but never finished 😅. Those highlighted are my favorite, give them a try.
 
 ## In Progress
 
-These are currently in my reading sack, read some and we could talk about them.
+These are currently in my reading sack, have a read.
 
 - [**The Courage To Be Disliked**](https://www.amazon.com/Courage-Be-Disliked-yourself-happiness-ebook/dp/B074TWG8V7) - A single book can change your life. It's about a conversation of a young man and a philosopher who believes the world is simple and happiness was within the reach of every man. Through that, it shows you how to free yourself, change your life and achieve real happiness.
 
@@ -22,7 +22,7 @@ These are currently in my reading sack, read some and we could talk about them.
 
 ## Read and ...Rotten
 
-Some I had finished, and some I have never passed page 100 but I'll soon continue to read. They are all worth your time, trust me.
+Some I had finished, and some I have never passed page 100 but I'll soon continue. They are all worth your time, trust me.
 
 - [**Grokking Algorithms**: An Illustrated Guide for Programmers and Other Curious People](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) - A friendly-guide book show you how to learn complicated stuff like algorithms in a simple illustrated way.
 
