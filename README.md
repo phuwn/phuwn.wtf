@@ -41,6 +41,7 @@ Inspired by [tiggreen/tik.dev](https://github.com/tiggreen/tik.dev).
 npm install -g gatsby-cli
 gatsby new phuwn.wtf https://github.com/phuwn/phuwn.wtf
 cd phuwn.wtf
+npm install
 ```
 
 #### Run on develop environment
@@ -53,7 +54,6 @@ gatsby develop
 #### Using custom Express.js instead
 
 ```sh
-npm install
 gatsby build
 node server.js
 # Your site is now running at `http://localhost:3000`!
