@@ -11,67 +11,55 @@
       "path": "/categories"
     },
     {
-      "path": "/posts/perfecting-the-art-of-perfection"
+      "path": "/posts/hello-world"
     },
     {
-      "path": "/posts/the-origins-of-social-stationery-lettering"
+      "path": "/posts/lets-green-your-github"
     },
     {
-      "path": "/posts/a-brief-history-of-typography"
+      "path": "/posts/uses-this"
     },
     {
-      "path": "/posts/the-birth-of-movable-type"
-    },
-    {
-      "path": "/posts/humane-typography-in-the-digital-age"
-    },
-    {
-      "path": "/tag/design"
+      "path": "/tag/commit"
     },
     {
       "path": "/tag/gatsby"
     },
     {
-      "path": "/tag/handwriting"
+      "path": "/tag/git-hub"
     },
     {
-      "path": "/tag/helvetica"
+      "path": "/tag/hello-world"
     },
     {
-      "path": "/tag/history-of-typography"
-    },
-    {
-      "path": "/tag/learning-to-write"
-    },
-    {
-      "path": "/tag/linotype"
-    },
-    {
-      "path": "/tag/monotype"
+      "path": "/tag/my-story"
     },
     {
       "path": "/tag/open-source"
     },
     {
-      "path": "/tag/typography"
+      "path": "/tag/resume"
+    },
+    {
+      "path": "/tag/thoughts"
     },
     {
       "path": "/tag/web-development"
     },
     {
-      "path": "/category/design-culture"
+      "path": "/category/cool-stuff"
     },
     {
-      "path": "/category/design-inspiration"
-    },
-    {
-      "path": "/category/typography"
+      "path": "/category/inspiration"
     },
     {
       "path": "/"
     },
     {
       "path": "/page/1"
+    },
+    {
+      "path": "/page/2"
     },
     {
       "path": "/404.html"
