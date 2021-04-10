@@ -110,4 +110,4 @@ Go has been widely used as a modern replacement for C/C++ in all kinds of areas.
 
 Thank you for hearing my thoughts about Go. Due to my lack of experience, the article may contain some inaccurate information. Please inform me if you found any.
 
-[My post on Medium](https://phuwn.medium.com/hello-go-936a33dd3385). Would you care for giving me a clap? Thank you :D
+[My post on Medium](https://phuwn.medium.com/gokachu-i-choose-you-efd4da2603c1). Would you care for giving me a clap? Thank you :D
