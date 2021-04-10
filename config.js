@@ -56,8 +56,8 @@ module.exports = {
       weibo: "",
       codepen: "",
       youtube: "",
-      soundcloud: "phuwn",
-      medium: "",
+      soundcloud: "",
+      medium: "phuwn",
     },
   },
 };

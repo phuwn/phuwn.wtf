@@ -63,19 +63,19 @@ Check your config at Setting > Config Vars
 
 To set up a scheduler that commits for you daily.
 
-* Set your credit card information in Heroku at [Manage Account > Billing](https://dashboard.heroku.com/account/billing)
+- Set your credit card information in Heroku at [Manage Account > Billing](https://dashboard.heroku.com/account/billing)
 
 ![Set credit card info](/media/post_2_img_6.png)
 
-* On Terminal, go to my repository and install add-on Scheduler with heroku addons:create scheduler:standard
+- On Terminal, go to my repository and install add-on Scheduler with heroku addons:create scheduler:standard
 
-* Set up the Schedule Job
+- Set up the Schedule Job
 
 ![Go to Schedule Panel](/media/post_2_img_7.png)
 
 ![Set up the Schedule Job](/media/post_2_img_8.png)
 
-* Check your app status with heroku log --tails
+- Check your app status with heroku log --tails
 
 And now you’ll have A commit a day.
 
@@ -87,11 +87,11 @@ And now you’ll have A commit a day.
 
 All you need to do is
 
-* Install the tool npm i -g github-spray
+- Install the tool npm i -g github-spray
 
-* Design your message. Ex:github-spray -t "Hello World"
+- Design your message. Ex:github-spray -t "Hello World"
 
-* You can even draw out your own message using the [Spray Generator](https://annihil.github.io/github-spray-generator/)
+- You can even draw out your own message using the [Spray Generator](https://annihil.github.io/github-spray-generator/)
 
 ![Draw and generate message](/media/post_2_gif_1.gif)
 
@@ -101,13 +101,14 @@ So cool right? Try them out and show me your new GitHub graph hehe.
 
 ### Reference
 
-* [3 Step Setting up Heroku schedule (cron) job](https://hackernoon.com/3-step-setting-up-heroku-schedule-cron-job-example-tutorial-set-up-node-dyno-14d1d8ccfe4f)
+- [3 Step Setting up Heroku schedule (cron) job](https://hackernoon.com/3-step-setting-up-heroku-schedule-cron-job-example-tutorial-set-up-node-dyno-14d1d8ccfe4f)
 
-* [👾 Hack Your GitHub Contribution Graph ░▒▓█](https://hackernoon.com/hack-your-github-contribution-graph-d88bdb417351)
+- [👾 Hack Your GitHub Contribution Graph ░▒▓█](https://hackernoon.com/hack-your-github-contribution-graph-d88bdb417351)
 
-* [Annihil/github-spray](https://github.com/Annihil/github-spray)
+- [Annihil/github-spray](https://github.com/Annihil/github-spray)
 
-* [Making Your Github Green Again](https://medium.com/@olyaB/making-your-github-green-again-dab6f414b04b)
+- [Making Your Github Green Again](https://medium.com/@olyaB/making-your-github-green-again-dab6f414b04b)
 
+---
 
 [My post on Medium](https://phuwn.medium.com/lets-green-your-github-e7618122dc2). Would you care for giving me a clap? Thank you :D

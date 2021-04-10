@@ -23,6 +23,8 @@ For years, I had been struggling, like a lot, just to write and publish an artic
 
 Now I’m so excited to write. There’s so much stuff I wanna share. My eight-hour day, my working experience, my thousand of ideas, or even my bookshelf, … I’ll write them all. Welcome, to my huge and crazy world. Have a read sometimes hehe.
 
+---
+
 And one more thing, don’t hesitate to share your opinion. I’m open to all contributions. Share with me your thoughts and it could be my new experience 😁. Thank you.
 
 [My post on Medium](https://phuwn.medium.com/hello-world-a57ec48c0f8d). Would you care for giving me a clap? Thank you :D
